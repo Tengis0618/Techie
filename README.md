@@ -54,44 +54,6 @@ A Job List with embedded items:
 }
 ```
 
-
-## [Link to Commented First Draft Schema](db.mjs) 
-
-![db schema](/db.mjs)
-## Wireframes
-
-/login - page for login
-
-![list create](documentation/login_page.png)
-
-/signup - page for signup
-
-![list](documentation/sign_up.png)
-
-/user/.../profile - page for user profile
-
-![list](documentation/profile.png)
-
-/user/.../joblist - page for job list
-
-![list](documentation/job_list.png)
-
-/ - landing page
-
-![list](documentation/landin_page.png)
-
-/user/job_posting - page for posting job
-
-![list](documentation/job_posting.png)
-
-/user/job_posting/applicant_list - page for applicant list
-
-![list](documentation/appplicant_list.png)
-
-
-## Site map
-
-![sitemap](documentation/sitemap.png)
 ## User Stories or Use Cases
 
 1. as non-registered user, I can register a new account with the site
@@ -105,19 +67,14 @@ A Job List with embedded items:
 
 ## Research Topics
 
-* (3 points) Integrate user authentication
+* Integrate user authentication
     * I'm going to be using JWT and bcryptjs for user authentication
-* (1 points) Use of API's such as Leetcode API for user profile
+   Use of API's such as Leetcode API for user profile
     * use Leetcode API for retrieving the number of problems solved on leetcode
-* (6 points) ReactJs 
+* ReactJs 
     * use react as the frameworks for frontend, used with redux toolkit and axios;
 
 10 points total out of 8 required points (___TODO__: addtional points will __not__ count for extra credit)
-
-
-## [Link to Initial Main Project File](app.mjs) 
-
-![app.mjs](/app.mjs)
 
 ## Annotations / References Used
 
